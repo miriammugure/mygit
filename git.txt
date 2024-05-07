@@ -1,4 +1,0 @@
-hello there am learning git
-interesting stuff hehehe
-more to come
-git branches
